@@ -1,12 +1,12 @@
 Criar projeto SistemaAcademico (Aspect com MVC)
 Instalar os pacotes: |.NET 9.0 - .NET 8.0
 - Microsoft Entity FrameworkCore |9.0 - 8.0.11
-- Microsoft Entity Design | 9.0 - 8.0.11
-- Microsoft Entity SalServer | 9.0 - 8.0.11
-- Microsoft Entity Tools | 9.0 - 8.0.11
+- Microsoft Entity FrameworkCore Design | 9.0 - 8.0.11
+- Microsoft Entity FrameworkCore SqlServer | 9.0 - 8.0.11
+- Microsoft Entity FrameworkCore Tools | 9.0 - 8.0.11
 - Microsoft.VisualStudio.web.codeGeneration | 9.0 - 8.0.7
 - Microsoft.VisualStudio.web.codeGeneration Design | 9.0 - 8.0.7
-- Pamela.EntityFrameworkcore.Mysql | 9.0 - 8.0.2
+- Pomelo.EntityFrameworkcore.Mysql | 9.0 - 8.0.2
 
 BANCO DE DADOS
 Usuários:
@@ -47,3 +47,7 @@ Relacionamento: 1:N Disciplina <-> Curso
 
 
 * Criar em Models as classes com os nomes das tabelas no singular.
+
+Anotações secretas e escondidas!!!!!
+Fulano058347
+123123
