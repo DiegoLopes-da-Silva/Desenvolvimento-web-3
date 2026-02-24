@@ -1,0 +1,49 @@
+Criar projeto SistemaAcademico (Aspect com MVC)
+Instalar os pacotes: |.NET 9.0 - .NET 8.0
+- Microsoft Entity FrameworkCore |9.0 - 8.0.11
+- Microsoft Entity Design | 9.0 - 8.0.11
+- Microsoft Entity SalServer | 9.0 - 8.0.11
+- Microsoft Entity Tools | 9.0 - 8.0.11
+- Microsoft.VisualStudio.web.codeGeneration | 9.0 - 8.0.7
+- Microsoft.VisualStudio.web.codeGeneration Design | 9.0 - 8.0.7
+- Pamela.EntityFrameworkcore.Mysql | 9.0 - 8.0.2
+
+BANCO DE DADOS
+Usuários:
+UsuarioId
+Nome
+Email
+Senha
+
+Relacionamento: 1:1 Usuarios <-> Alunos
+
+Alunos:
+AlunoId
+Ra
+
+Relacionamento: N:N Alunos <-> Cursos -> Gera a tabela matriculas
+Relacionamento: 1:1 Alunos <-> Usuarios
+
+Cursos:
+CursoId
+Nome
+Vagas
+
+Relacionamento: N:N Cursos <-> Alunos -> Gera a tabela matriculas
+Relacionamento: N:1 Cursos <-> Disciplinas
+	
+
+Matriculas:
+MatriculaId
+DataMatricula
+
+
+Disciplinas:
+DisciplinaId
+Nome
+Semestre
+
+Relacionamento: 1:N Disciplina <-> Curso
+
+
+* Criar em Models as classes com os nomes das tabelas no singular.
