@@ -1,4 +1,6 @@
-﻿namespace Sistema_Academico.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Sistema_Academico.Models
 {
     public class Disciplina
     {

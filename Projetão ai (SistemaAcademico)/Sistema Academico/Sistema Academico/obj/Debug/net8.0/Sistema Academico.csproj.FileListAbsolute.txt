@@ -257,10 +257,10 @@ C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Siste
 C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Sistema Academico\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sistema Academico.props
 C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Sistema Academico\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sistema Academico.props
 C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Sistema Academico\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Sistema Academico\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Sistema Academico\obj\Debug\net8.0\Sistema .BBFC5F93.Up2Date
 C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Sistema Academico\obj\Debug\net8.0\Sistema Academico.dll
 C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Sistema Academico\obj\Debug\net8.0\refint\Sistema Academico.dll
 C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Sistema Academico\obj\Debug\net8.0\Sistema Academico.pdb
 C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Sistema Academico\obj\Debug\net8.0\Sistema Academico.genruntimeconfig.cache
 C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Sistema Academico\obj\Debug\net8.0\ref\Sistema Academico.dll
+C:\Desenvolvimento Web 3\Projetão ai (SistemaAcademico)\Sistema Academico\Sistema Academico\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
