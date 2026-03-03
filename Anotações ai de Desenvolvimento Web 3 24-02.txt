@@ -48,6 +48,26 @@ Relacionamento: 1:N Disciplina <-> Curso
 
 * Criar em Models as classes com os nomes das tabelas no singular.
 
+=====================================
+|-------COMANDOS LENDÁRIOS!!!-------|
+|-------Do terminal nuget!!!!-------|
+=====================================
+Add-Migration -> Adiciona migração
+Update-Database -> Atualiza o DB
+
+dotnet tool list -g -> Mostra ai as versões e tudo mais do dotnet
+dotnet new tool-manifest -o ./caminho/da/pasta
+dotnet new tool install MicrosoftVisualStudio.Web.CodeGeneration.Design --version 9.00 (ou 8.0.7)
+
+*Gerar controllers e views console NA PASTA DO PROJETO
+dotnet tool run dotnet-aspnet-codegenerator Controller -name nomeController -m nome.da.model -dc seu_DbContext --relativeFolderPath controllers --useDefaultLayout --referenceScriptLibraries
+SE tiver sem o manifesto, tira o "tool run dotnet"
+dotnet new tool-manifest -o ./ --force
+
+SE TUDO TIVER DANDO MERDA -> tenta esse
+dotnet tool install dotnet-aspnet-CodeGenerator --version 8.0.7
+
+
 Anotações secretas e escondidas!!!!!
 Fulano058347
 123123
