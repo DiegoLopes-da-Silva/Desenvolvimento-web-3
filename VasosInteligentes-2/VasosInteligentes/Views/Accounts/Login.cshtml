@@ -1,0 +1,26 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Login";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+<h1>Login</h1>
+<div class="text-danger" asp-validation-summary="All"></div>
+<form asp-action="Login">
+    <div class="form-group">
+        <label>Email</label>
+        <input type="email" name="email" class="form-control" />
+
+        <label>Senha</label>
+        <input type="password" name="password" class="form-control" />
+
+        <button type="submit" class="btn btn-info">Entrar</button>
+    </div>
+</form>
+
+<p>
+    <a asp-asp-controller="Accounts" asp-action="ForgotPassword">
+        Esqueci minha senha
+    </a>
+</p>
